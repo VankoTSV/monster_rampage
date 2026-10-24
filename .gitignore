@@ -1,0 +1,12 @@
+.venv/
+.idea/
+.agents/
+.build/
+build/
+release/
+.web-tools/
+.web-game/
+__pycache__/
+*.py[cod]
+savegame.json
+*.spec
